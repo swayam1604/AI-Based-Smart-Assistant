@@ -1,0 +1,14 @@
+{
+  "categories": [
+    "Technical Support",
+    "Account Problems",
+    "Product Complaints",
+    "Payment Issues",
+    "Service Requests"
+  ],
+  "accuracy": 75.0,
+  "cv_accuracy": 80.0,
+  "training_samples": 100,
+  "model_type": "TF-IDF + Logistic Regression",
+  "features": 5000
+}
